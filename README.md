@@ -8,8 +8,8 @@
 ## CSV with cars, population and ratio
 [CSV](https://github.com/datamapio/cars/blob/main/european_passenger_cars_1990-2018.csv)
 
-## The Notebook contains all visualizations, plus some more
-[Notebook](https://github.com/datamapio/cars/blob/main/Passenger%20Cars%20in%20Europe.ipynb)
+## The Notebook contains all interactive visualizations, plus some more
+[Jupyter Notebook](https://github.com/datamapio/cars/blob/main/Passenger%20Cars%20in%20Europe.ipynb)
 
 ## Some visualizations
 
