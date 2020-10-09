@@ -1,587 +1,587 @@
-brand,model,number_2019,number_2018,number_2017,number_2016,number_2015,number_2014,number_2013
-Alfa Romeo,4C,39,42,102,97,88,210,5
-Alfa Romeo,8C,0,0,0,0,0,0,1
-Alfa Romeo,Brera,0,0,0,0,0,0,2
-Alfa Romeo,Giulia,559,678,1156,475,0,0,0
-Alfa Romeo,Giulietta,600,890,645,785,971,1559,1482
-Alfa Romeo,Mito,57,192,137,151,190,330,489
-Alfa Romeo,Stelvio,1626,1814,1248,0,0,0,0
-Alfa Romeo,,0,0,0,0,0,0,6
-Alpina,B3 Biturbo,5,16,10,22,22,46,34
-Alpina,B3 GT3,0,0,0,0,0,0,1
-Alpina,B4 Biturbo,4,6,9,13,7,7,0
-Alpina,B5 Biturbo,17,30,9,1,1,1,0
-Alpina,B6 Biturbo,0,0,2,4,2,2,0
-Alpina,B7 Biturbo,1,1,4,0,0,0,0
-Alpina,D3 Biturbo,0,2,8,8,11,8,0
-Alpina,D4 Biturbo,0,0,1,0,0,0,0
-Alpina,D5 Biturbo,6,5,0,1,0,0,0
-Alpina,XD3 Biturbo,17,2,7,24,23,23,20
-Alpina,XD4 Biturbo,5,0,0,0,0,0,0
-Alpine,A110,183,146,0,0,0,0,0
-Aston Martin,Cygnet,0,0,0,0,1,3,24
-Aston Martin,DB11,57,66,98,15,0,0,0
-Aston Martin,DB9,1,1,6,18,11,11,23
-Aston Martin,DBS,44,7,0,0,0,0,3
+brand,model,number_2013,number_2014,number_2015,number_2016,number_2017,number_2018,number_2019
+Alfa Romeo,4C,5,210,88,97,102,42,39
+Alfa Romeo,8C,1,0,0,0,0,0,0
+Alfa Romeo,Brera,2,0,0,0,0,0,0
+Alfa Romeo,Giulia,0,0,0,475,1156,678,559
+Alfa Romeo,Giulietta,1482,1559,971,785,645,890,600
+Alfa Romeo,Mito,489,330,190,151,137,192,57
+Alfa Romeo,Stelvio,0,0,0,0,1248,1814,1626
+Alfa Romeo,,6,0,0,0,0,0,0
+Alpina,B3 Biturbo,34,46,22,22,10,16,5
+Alpina,B3 GT3,1,0,0,0,0,0,0
+Alpina,B4 Biturbo,0,7,7,13,9,6,4
+Alpina,B5 Biturbo,0,1,1,1,9,30,17
+Alpina,B6 Biturbo,0,2,2,4,2,0,0
+Alpina,B7 Biturbo,0,0,0,0,4,1,1
+Alpina,D3 Biturbo,0,8,11,8,8,2,0
+Alpina,D4 Biturbo,0,0,0,0,1,0,0
+Alpina,D5 Biturbo,0,0,0,1,0,5,6
+Alpina,XD3 Biturbo,20,23,23,24,7,2,17
+Alpina,XD4 Biturbo,0,0,0,0,0,0,5
+Alpine,A110,0,0,0,0,0,146,183
+Aston Martin,Cygnet,24,3,1,0,0,0,0
+Aston Martin,DB11,0,0,0,15,98,66,57
+Aston Martin,DB9,23,11,11,18,6,1,1
+Aston Martin,DBS,3,0,0,0,0,7,44
 Aston Martin,Lagonda,0,0,0,1,0,0,0
-Aston Martin,Rapide,11,6,12,11,13,19,20
-Aston Martin,V12 Vantage,2,14,21,20,26,27,27
-Aston Martin,V8 Vantage,54,32,34,32,40,50,66
-Aston Martin,Vanquish,11,36,37,18,35,43,56
-Aston Martin,Vantage GT12,0,0,2,12,0,0,0
-Aston Martin,Vantage GT8,0,0,5,0,0,0,0
-Aston Martin,Virage,0,0,0,0,0,0,4
-Audi,A1,1735,1385,1515,2185,2621,2708,2552
-Audi,A3,3409,4180,4106,4092,5725,5203,4428
-Audi,A4,2153,3107,3120,3614,2823,3458,4148
-Audi,A5,708,1134,1555,696,1068,1296,1918
-Audi,A6,1235,1140,1245,1542,1990,1777,2157
-Audi,A7,151,180,110,188,242,240,282
-Audi,A8,50,63,65,94,100,158,118
-Audi,Q2,2275,2288,2489,294,0,0,0
-Audi,Q3,2919,1056,1866,2761,2956,2810,2732
-Audi,Q5,2252,2770,3091,2575,3186,2831,2336
-Audi,Q7,413,677,1115,1164,759,264,336
-Audi,Q8,466,216,0,0,0,0,0
-Audi,R8,26,32,38,30,29,25,43
-Audi,TT,227,146,300,343,719,176,201
-Audi,e-tron,683,0,0,0,0,0,0
-BMW,1er,2300,2223,2543,2498,2915,2830,3874
-BMW,2er,3027,3692,4125,4342,3871,852,0
-BMW,3er,2651,2284,2817,3159,3679,4043,5653
-BMW,4er,991,1343,1723,1894,2187,2063,224
-BMW,5er,2099,2708,2654,1661,1917,2029,2662
-BMW,6er,107,288,211,205,286,375,393
-BMW,7er,371,344,417,483,192,132,163
-BMW,8er,347,53,0,0,0,0,0
-BMW,X1,3392,3557,4178,3656,1629,2179,2411
-BMW,X2,1050,922,0,0,0,0,0
-BMW,X3,3522,3147,2109,2431,2375,3008,3173
-BMW,X4,857,670,866,1101,1024,522,0
-BMW,X5,2188,1586,1875,2004,2130,2212,1059
-BMW,X6,150,292,366,482,668,176,393
-BMW,X7,233,0,0,0,0,0,0
-BMW,Z4,405,2,26,165,171,179,191
-BMW,i3,1082,1063,912,547,888,390,106
-BMW,i8,46,53,43,74,103,64,0
-Bentley,Bentayga,57,81,120,76,0,0,0
-Bentley,Continental GT,166,119,89,111,119,120,151
-Bentley,Flying Spur,2,17,45,25,23,40,25
-Bentley,Mulsanne,6,4,7,7,10,8,0
-Bugatti,Chiron,12,7,2,0,0,0,0
-Bugatti,Grand Sport,0,0,0,3,3,0,0
-Bugatti,Veyron,0,0,0,0,0,2,4
-Cadillac,ATS,11,12,26,38,32,29,34
-Cadillac,BLS,0,0,0,0,0,0,1
-Cadillac,CT6,10,11,27,12,0,0,0
-Cadillac,CTS,8,13,42,53,37,61,40
+Aston Martin,Rapide,20,19,13,11,12,6,11
+Aston Martin,V12 Vantage,27,27,26,20,21,14,2
+Aston Martin,V8 Vantage,66,50,40,32,34,32,54
+Aston Martin,Vanquish,56,43,35,18,37,36,11
+Aston Martin,Vantage GT12,0,0,0,12,2,0,0
+Aston Martin,Vantage GT8,0,0,0,0,5,0,0
+Aston Martin,Virage,4,0,0,0,0,0,0
+Audi,A1,2552,2708,2621,2185,1515,1385,1735
+Audi,A3,4428,5203,5725,4092,4106,4180,3409
+Audi,A4,4148,3458,2823,3614,3120,3107,2153
+Audi,A5,1918,1296,1068,696,1555,1134,708
+Audi,A6,2157,1777,1990,1542,1245,1140,1235
+Audi,A7,282,240,242,188,110,180,151
+Audi,A8,118,158,100,94,65,63,50
+Audi,Q2,0,0,0,294,2489,2288,2275
+Audi,Q3,2732,2810,2956,2761,1866,1056,2919
+Audi,Q5,2336,2831,3186,2575,3091,2770,2252
+Audi,Q7,336,264,759,1164,1115,677,413
+Audi,Q8,0,0,0,0,0,216,466
+Audi,R8,43,25,29,30,38,32,26
+Audi,TT,201,176,719,343,300,146,227
+Audi,e-tron,0,0,0,0,0,0,683
+BMW,1er,3874,2830,2915,2498,2543,2223,2300
+BMW,2er,0,852,3871,4342,4125,3692,3027
+BMW,3er,5653,4043,3679,3159,2817,2284,2651
+BMW,4er,224,2063,2187,1894,1723,1343,991
+BMW,5er,2662,2029,1917,1661,2654,2708,2099
+BMW,6er,393,375,286,205,211,288,107
+BMW,7er,163,132,192,483,417,344,371
+BMW,8er,0,0,0,0,0,53,347
+BMW,X1,2411,2179,1629,3656,4178,3557,3392
+BMW,X2,0,0,0,0,0,922,1050
+BMW,X3,3173,3008,2375,2431,2109,3147,3522
+BMW,X4,0,522,1024,1101,866,670,857
+BMW,X5,1059,2212,2130,2004,1875,1586,2188
+BMW,X6,393,176,668,482,366,292,150
+BMW,X7,0,0,0,0,0,0,233
+BMW,Z4,191,179,171,165,26,2,405
+BMW,i3,106,390,888,547,912,1063,1082
+BMW,i8,0,64,103,74,43,53,46
+Bentley,Bentayga,0,0,0,76,120,81,57
+Bentley,Continental GT,151,120,119,111,89,119,166
+Bentley,Flying Spur,25,40,23,25,45,17,2
+Bentley,Mulsanne,0,8,10,7,7,4,6
+Bugatti,Chiron,0,0,0,0,2,7,12
+Bugatti,Grand Sport,0,0,3,3,0,0,0
+Bugatti,Veyron,4,2,0,0,0,0,0
+Cadillac,ATS,34,29,32,38,26,12,11
+Cadillac,BLS,1,0,0,0,0,0,0
+Cadillac,CT6,0,0,0,12,27,11,10
+Cadillac,CTS,40,61,37,53,42,13,8
 Cadillac,ELR,0,0,0,11,0,0,0
-Cadillac,Escalade,43,80,38,53,32,24,23
-Cadillac,SRX,0,0,3,32,33,41,30
-Cadillac,XLR,0,0,1,0,0,0,0
-Cadillac,XT5,44,117,81,29,0,0,0
-Caterham,Seven,17,23,27,27,32,31,21
-Chevrolet,Aveo,1,0,1,2,7,67,516
-Chevrolet,Camaro,265,204,227,86,26,277,336
-Chevrolet,Captiva,0,0,0,6,19,170,612
-Chevrolet,Corvette,141,44,111,133,145,140,49
-Chevrolet,Cruze,0,0,4,2,10,437,791
-Chevrolet,Malibu,0,0,0,0,0,36,172
-Chevrolet,Orlando,0,0,0,1,5,178,502
-Chevrolet,Spark,0,0,0,6,29,262,540
-Chevrolet,Tahoe,0,0,0,0,0,0,2
-Chevrolet,Traverse,0,0,0,0,0,0,1
-Chevrolet,Trax,0,0,0,0,19,442,666
-Chevrolet,Volt,0,0,0,1,2,38,71
-Chrysler,300C,0,0,0,1,1,16,12
-Chrysler,Grand Voyager,0,10,2,5,0,14,13
-Chrysler,Pacifica,23,39,24,0,0,0,0
-Chrysler,,8,0,0,0,0,0,0
-Citroen,Berlingo,507,329,317,349,371,382,431
-Citroen,C-Crosser,0,0,0,0,0,0,4
-Citroen,C-Zero,26,33,43,59,30,12,22
-Citroen,C1,630,717,888,1198,1599,804,1094
-Citroen,C3,1418,1685,2391,1798,2282,2464,1560
-Citroen,C3 Aircross,1057,1220,351,0,0,0,0
-Citroen,C3 Picasso,0,2,202,410,617,756,998
-Citroen,C4,2,205,327,783,1036,1064,1330
-Citroen,C4 Aircross,1,19,295,479,585,482,521
-Citroen,C4 Cactus,418,717,401,746,1143,678,0
-Citroen,C4 Picasso,61,897,1199,1411,1558,1776,1554
-Citroen,C4 SpaceTourer,487,128,0,0,0,0,0
-Citroen,C5,1,4,142,282,323,324,502
-Citroen,C5 Aircross,1087,13,0,0,0,0,0
-Citroen,C6,0,0,0,0,0,0,9
-Citroen,C8,0,0,0,0,7,95,218
-Citroen,DS3,0,0,0,714,916,1171,1204
-Citroen,DS4,0,0,0,493,499,423,411
-Citroen,DS5,0,0,0,186,299,316,502
-Citroen,E-Mehari,0,0,12,17,0,0,0
-Citroen,Jumper,9,19,19,38,36,23,29
-Citroen,Jumpy,368,422,437,3,207,470,564
-Citroen,Nemo,0,0,0,0,8,27,71
-Citroen,SpaceTourer,0,5,60,105,0,0,0
-DS,DS3,281,194,346,0,0,0,0
-DS,DS4,25,145,224,0,0,0,0
-DS,DS5,7,68,110,0,0,0,0
-DS,DS7,242,340,0,0,0,0,0
-Dacia,Dokker,677,680,780,671,447,366,325
-Dacia,Duster,3169,3122,2791,2744,2158,1882,1749
-Dacia,Lodgy,394,496,522,524,457,435,996
-Dacia,Logan,872,834,914,823,604,653,248
-Dacia,Sandero,2883,3169,3548,2660,1730,1449,1853
-Daihatsu,Sirion,0,0,0,0,0,0,1
-Diverse,Diverse,93,121,94,82,154,235,127
-Dodge,Caravan,23,18,0,0,21,0,0
-Dodge,Challenger,88,63,85,45,51,95,51
-Dodge,Charger,13,11,31,15,53,73,29
-Dodge,Durango,261,117,121,47,102,238,104
+Cadillac,Escalade,23,24,32,53,38,80,43
+Cadillac,SRX,30,41,33,32,3,0,0
+Cadillac,XLR,0,0,0,0,1,0,0
+Cadillac,XT5,0,0,0,29,81,117,44
+Caterham,Seven,21,31,32,27,27,23,17
+Chevrolet,Aveo,516,67,7,2,1,0,1
+Chevrolet,Camaro,336,277,26,86,227,204,265
+Chevrolet,Captiva,612,170,19,6,0,0,0
+Chevrolet,Corvette,49,140,145,133,111,44,141
+Chevrolet,Cruze,791,437,10,2,4,0,0
+Chevrolet,Malibu,172,36,0,0,0,0,0
+Chevrolet,Orlando,502,178,5,1,0,0,0
+Chevrolet,Spark,540,262,29,6,0,0,0
+Chevrolet,Tahoe,2,0,0,0,0,0,0
+Chevrolet,Traverse,1,0,0,0,0,0,0
+Chevrolet,Trax,666,442,19,0,0,0,0
+Chevrolet,Volt,71,38,2,1,0,0,0
+Chrysler,300C,12,16,1,1,0,0,0
+Chrysler,Grand Voyager,13,14,0,5,2,10,0
+Chrysler,Pacifica,0,0,0,0,24,39,23
+Chrysler,,0,0,0,0,0,0,8
+Citroen,Berlingo,431,382,371,349,317,329,507
+Citroen,C-Crosser,4,0,0,0,0,0,0
+Citroen,C-Zero,22,12,30,59,43,33,26
+Citroen,C1,1094,804,1599,1198,888,717,630
+Citroen,C3,1560,2464,2282,1798,2391,1685,1418
+Citroen,C3 Aircross,0,0,0,0,351,1220,1057
+Citroen,C3 Picasso,998,756,617,410,202,2,0
+Citroen,C4,1330,1064,1036,783,327,205,2
+Citroen,C4 Aircross,521,482,585,479,295,19,1
+Citroen,C4 Cactus,0,678,1143,746,401,717,418
+Citroen,C4 Picasso,1554,1776,1558,1411,1199,897,61
+Citroen,C4 SpaceTourer,0,0,0,0,0,128,487
+Citroen,C5,502,324,323,282,142,4,1
+Citroen,C5 Aircross,0,0,0,0,0,13,1087
+Citroen,C6,9,0,0,0,0,0,0
+Citroen,C8,218,95,7,0,0,0,0
+Citroen,DS3,1204,1171,916,714,0,0,0
+Citroen,DS4,411,423,499,493,0,0,0
+Citroen,DS5,502,316,299,186,0,0,0
+Citroen,E-Mehari,0,0,0,17,12,0,0
+Citroen,Jumper,29,23,36,38,19,19,9
+Citroen,Jumpy,564,470,207,3,437,422,368
+Citroen,Nemo,71,27,8,0,0,0,0
+Citroen,SpaceTourer,0,0,0,105,60,5,0
+DS,DS3,0,0,0,0,346,194,281
+DS,DS4,0,0,0,0,224,145,25
+DS,DS5,0,0,0,0,110,68,7
+DS,DS7,0,0,0,0,0,340,242
+Dacia,Dokker,325,366,447,671,780,680,677
+Dacia,Duster,1749,1882,2158,2744,2791,3122,3169
+Dacia,Lodgy,996,435,457,524,522,496,394
+Dacia,Logan,248,653,604,823,914,834,872
+Dacia,Sandero,1853,1449,1730,2660,3548,3169,2883
+Daihatsu,Sirion,1,0,0,0,0,0,0
+Diverse,Diverse,127,235,154,82,94,121,93
+Dodge,Caravan,0,0,21,0,0,18,23
+Dodge,Challenger,51,95,51,45,85,63,88
+Dodge,Charger,29,73,53,15,31,11,13
+Dodge,Durango,104,238,102,47,121,117,261
 Dodge,Grand Caravan,0,0,0,5,0,0,0
-Dodge,Journey,0,0,3,46,0,0,2
-Dodge,Nitro,0,0,0,0,0,0,1
-Ferrari,488 GTB,0,0,0,0,37,0,0
-Ferrari,599 GTB,0,0,0,0,0,0,1
-Ferrari,812 Superfast,92,81,4,0,0,0,0
-Ferrari,California,2,14,51,69,115,53,48
-Ferrari,F12,0,5,31,66,40,58,132
-Ferrari,F40,1,0,0,0,0,0,0
-Ferrari,FF,0,0,2,6,30,28,50
-Ferrari,GTC4 Lusso,32,66,106,32,0,0,0
-Ferrari,LaFerrari,2,10,19,15,15,31,0
-Ferrari,Monza,3,0,0,0,0,0,0
-Ferrari,Portofino,122,52,0,0,0,0,0
-Ferrari,Testarossa,1,0,0,0,0,0,0
-Ferrari,,160,140,140,162,0,0,0
-Ferrari,,0,5,2,22,115,187,128
-Fiat,124 Spider,143,200,375,185,0,0,0
-Fiat,500L,211,246,277,298,279,947,637
-Fiat,500X,1338,1446,1245,1421,1656,0,0
-Fiat,Bravo,0,0,0,0,1,107,342
-Fiat,Doblo,78,113,111,140,151,187,243
-Fiat,Ducato,3,35,52,68,60,97,75
-Fiat,Fiorino,31,7,3,3,0,0,6
-Fiat,Freemont,0,1,1,146,514,623,693
-Fiat,Panda,1445,1471,1636,1558,1879,1960,2138
-Fiat,Punto,5,220,644,699,725,1251,2132
-Fiat,Qubo,31,35,70,55,53,88,140
-Fiat,Scudo,0,0,4,23,55,97,83
-Fiat,Sedici,0,0,0,0,40,468,355
-Fiat,Talento,232,118,90,25,0,0,0
-Fiat,Tipo,1106,1485,1616,701,0,0,0
-Fiat,,3763,3793,4227,3435,3610,3202,2881
-Fisker,Karma,0,0,0,1,4,17,24
-Ford,B-Max,1,84,381,395,471,684,1052
-Ford,C-Max,156,321,462,578,520,419,661
-Ford,Connect,567,396,474,487,575,605,0
-Ford,Courier,265,206,195,145,208,111,0
-Ford,Custom,827,707,499,284,358,369,0
-Ford,EcoSport,1167,1305,556,400,280,296,0
-Ford,Edge,656,547,742,367,3,17,20
-Ford,Explorer,181,12,9,27,17,48,18
-Ford,Fiesta,2629,2894,2399,2175,2844,2826,3372
-Ford,Flex,0,0,0,0,0,0,2
-Ford,Focus,2705,2434,2031,2208,2340,2482,3334
-Ford,GT,0,6,0,0,0,0,0
-Ford,Galaxy,125,200,200,259,128,111,131
-Ford,Grand C-Max,126,266,387,414,439,474,778
-Ford,Ka,889,967,393,101,192,382,640
-Ford,Kuga,2662,3378,3590,2886,3453,3082,3041
-Ford,Mondeo,619,591,576,937,1002,371,391
-Ford,Mustang,211,337,410,625,423,184,214
-Ford,S-Max,333,484,529,751,368,472,615
-Ford,Tourneo,0,0,0,0,0,0,343
-Ford,Transit,26,44,47,42,79,11,227
-Honda,Accord,0,1,1,1,127,257,230
-Honda,CR-V,1207,599,712,1096,1069,1318,1995
-Honda,CR-Z,0,0,0,1,3,55,40
-Honda,Civic,876,1087,1330,1128,784,863,625
-Honda,HR-V,711,483,705,973,205,0,0
-Honda,Insight,0,0,0,0,0,78,145
-Honda,Jazz,1266,1530,1214,1573,1155,1928,2560
-Honda,NSX,2,2,9,1,0,0,0
-Hummer,H3,0,0,0,0,0,0,1
-Hyundai,Genesis,0,0,0,3,5,38,19
-Hyundai,H-1 People,0,0,1,9,33,40,32
-Hyundai,Ioniq,309,472,439,167,0,0,0
-Hyundai,Kona,2728,1900,204,0,0,0,0
-Hyundai,Nexo,16,0,0,0,0,0,0
-Hyundai,Santa Fe,429,573,836,1316,1307,787,485
-Hyundai,Starex,2,0,0,0,0,0,0
-Hyundai,Tucson,2666,2276,3084,3168,1382,0,0
-Hyundai,Veloster,0,0,3,11,60,84,244
-Hyundai,i10,274,521,673,399,653,879,268
-Hyundai,i20,1009,916,1382,1631,2364,3066,2651
-Hyundai,i30,1209,1263,1417,1611,1834,2361,2667
-Hyundai,i40,24,67,220,286,307,436,867
-Hyundai,iX 55,0,0,0,0,0,0,8
-Hyundai,iX20,18,191,337,448,675,796,860
-Hyundai,iX35,1,20,2,26,1312,2509,2110
-Infiniti,EX,0,0,0,0,0,4,6
-Infiniti,FX,0,0,0,0,1,15,59
-Infiniti,G37,0,0,0,0,0,1,5
-Infiniti,M,0,0,0,0,2,1,8
-Infiniti,Q30,72,68,112,350,0,0,0
-Infiniti,Q50,13,8,35,64,108,61,4
-Infiniti,Q60,10,10,30,4,5,4,0
-Infiniti,Q70,11,3,19,16,13,2,0
-Infiniti,QX30,15,34,54,72,0,0,0
-Infiniti,QX50,0,0,1,12,37,4,0
-Infiniti,QX60,0,0,0,0,1,0,0
-Infiniti,QX70,5,4,35,101,59,26,1
-Iveco,Daily,0,0,0,0,0,0,4
-Jaguar,E-Pace,999,961,0,0,0,0,0
-Jaguar,F-Pace,456,570,764,791,0,0,0
-Jaguar,F-Type,125,126,171,175,275,266,190
-Jaguar,I-Pace,444,63,0,0,0,0,0
-Jaguar,XE,106,127,178,436,333,0,0
-Jaguar,XF,83,103,165,372,349,324,581
-Jaguar,XJ,7,6,15,17,20,20,85
-Jaguar,XK,0,0,0,0,2,11,32
-Jeep,Cherokee,508,428,406,798,916,668,14
-Jeep,Compass,1607,1834,631,2,3,422,433
-Jeep,Glatiator,2,0,0,0,0,0,0
-Jeep,Grand Cherokee,1224,1249,1323,1180,1162,1595,1320
-Jeep,Patriot,0,0,0,0,0,58,8
-Jeep,Renegade,1216,814,891,0,0,0,0
-Jeep,Rengade,0,0,0,1009,1383,235,0
-Jeep,Wrangler,585,518,205,279,241,296,322
-KTM,X-Bow,0,0,0,0,1,5,3
-Kia,Carens,83,372,435,604,708,582,192
-Kia,Carnival,0,0,0,0,0,2,73
-Kia,Cee'd,814,914,641,962,924,1182,1142
-Kia,Niro,498,410,240,135,0,0,0
-Kia,Optima,33,135,178,55,40,60,121
-Kia,Picanto,879,828,585,1132,1053,793,425
-Kia,Pro Cee'd,266,1,6,23,19,67,57
-Kia,Rio,175,385,359,691,532,581,603
-Kia,Sorento,202,289,246,456,655,339,252
-Kia,Soul,75,78,135,278,345,178,180
-Kia,Sportage,876,817,690,923,526,972,619
-Kia,Stinger,143,243,60,0,0,0,0
-Kia,Stonic,436,316,114,0,0,0,0
-Kia,Venga,31,91,146,222,237,130,317
-Lada,4x4 Urban,0,8,24,8,0,0,0
-Lada,Kalina Cross,0,2,0,0,0,0,0
-Lada,Niva,0,0,0,0,5,31,12
-Lada,Vesta,2,0,0,0,0,0,0
-Lamborghini,Aventador,35,24,34,37,24,31,24
-Lamborghini,Gallardo,0,0,0,1,4,18,21
-Lamborghini,Huràcan,65,71,56,60,53,25,0
-Lamborghini,Urus,124,48,0,0,0,0,0
-Lancia,Delta,0,0,0,0,1,54,132
-Lancia,Flavia,0,0,0,0,0,65,60
-Lancia,Musa,0,0,0,0,0,0,12
-Lancia,Thema,0,0,0,0,1,38,163
-Lancia,Voyager,0,0,0,0,9,408,245
-Lancia,Ypsilon,2,1,4,83,116,230,273
-Land Rover,Defender,0,0,0,0,0,1,1
-Land Rover,Discovery,203,233,372,248,270,259,215
-Land Rover,Discovery Sport,635,709,652,1169,652,0,0
-Land Rover,Freelander,0,0,0,0,10,60,143
-Land Rover,Range Rover,316,283,292,341,371,360,513
-Land Rover,Range Rover Evoque,1194,925,1111,1378,1432,1650,1861
-Land Rover,Range Rover Sport,884,690,775,803,1065,1155,721
-Land Rover,Range Rover Velar,753,966,344,0,0,0,0
-Lexus,CT,108,167,76,84,97,203,160
-Lexus,GS,0,6,14,29,18,55,71
-Lexus,IS,21,24,34,31,75,148,160
-Lexus,LC,16,22,11,0,0,0,0
-Lexus,LS,6,9,4,11,5,7,11
-Lexus,NX,197,287,223,326,614,241,0
-Lexus,RC,11,11,21,20,32,0,0
-Lexus,RC-F,0,0,0,0,0,1,0
-Lexus,RX,172,208,306,362,102,198,254
-Lexus,UX,405,0,0,0,0,0,0
-Lotus,Elise,18,20,24,23,28,22,18
-Lotus,Evora,8,15,12,22,13,14,24
-Lotus,Exige,38,32,54,50,35,41,37
-Maserati,GT MC Stradale,0,0,1,8,10,10,12
-Maserati,Ghibli,109,185,270,385,525,537,45
-Maserati,GranCabrio,19,27,31,31,41,46,39
-Maserati,Granturismo,15,24,19,21,22,23,35
-Maserati,Levante,215,330,534,282,0,0,0
-Maserati,Quattroporte,17,34,62,56,107,116,59
-Maserati,Stradale,1,0,0,0,0,0,0
-Mazda,CX-3,1075,1129,1412,2127,1258,0,0
-Mazda,CX-30,470,0,0,0,0,0,0
-Mazda,CX-5,1722,2037,2443,2426,2630,2663,2480
-Mazda,CX-7,0,0,0,0,0,0,26
-Mazda,CX-9,7,14,5,102,90,7,0
-Mazda,MX-5,292,253,351,404,172,127,107
-Mazda,,1703,1314,1914,2457,2627,1369,1697
-Mazda,,1005,1029,1326,1931,1850,2167,1634
-Mazda,,262,450,427,691,832,754,915
-Mazda,,0,0,0,32,523,488,731
-McLaren,540C,1,5,6,3,0,0,0
-McLaren,570S,0,0,0,0,1,0,0
-McLaren,650S,0,0,1,15,21,22,0
-McLaren,675 LT,4,4,8,36,5,0,0
-McLaren,720S,33,57,23,0,0,0,0
-McLaren,GT-R,2,0,0,0,0,0,0
-McLaren,MP4,1,0,0,0,0,0,0
-McLaren,MP4-12C,0,0,0,1,0,15,30
+Dodge,Journey,2,0,0,46,3,0,0
+Dodge,Nitro,1,0,0,0,0,0,0
+Ferrari,488 GTB,0,0,37,0,0,0,0
+Ferrari,599 GTB,1,0,0,0,0,0,0
+Ferrari,812 Superfast,0,0,0,0,4,81,92
+Ferrari,California,48,53,115,69,51,14,2
+Ferrari,F12,132,58,40,66,31,5,0
+Ferrari,F40,0,0,0,0,0,0,1
+Ferrari,FF,50,28,30,6,2,0,0
+Ferrari,GTC4 Lusso,0,0,0,32,106,66,32
+Ferrari,LaFerrari,0,31,15,15,19,10,2
+Ferrari,Monza,0,0,0,0,0,0,3
+Ferrari,Portofino,0,0,0,0,0,52,122
+Ferrari,Testarossa,0,0,0,0,0,0,1
+Ferrari,,0,0,0,162,140,140,160
+Ferrari,,128,187,115,22,2,5,0
+Fiat,124 Spider,0,0,0,185,375,200,143
+Fiat,500L,637,947,279,298,277,246,211
+Fiat,500X,0,0,1656,1421,1245,1446,1338
+Fiat,Bravo,342,107,1,0,0,0,0
+Fiat,Doblo,243,187,151,140,111,113,78
+Fiat,Ducato,75,97,60,68,52,35,3
+Fiat,Fiorino,6,0,0,3,3,7,31
+Fiat,Freemont,693,623,514,146,1,1,0
+Fiat,Panda,2138,1960,1879,1558,1636,1471,1445
+Fiat,Punto,2132,1251,725,699,644,220,5
+Fiat,Qubo,140,88,53,55,70,35,31
+Fiat,Scudo,83,97,55,23,4,0,0
+Fiat,Sedici,355,468,40,0,0,0,0
+Fiat,Talento,0,0,0,25,90,118,232
+Fiat,Tipo,0,0,0,701,1616,1485,1106
+Fiat,,2881,3202,3610,3435,4227,3793,3763
+Fisker,Karma,24,17,4,1,0,0,0
+Ford,B-Max,1052,684,471,395,381,84,1
+Ford,C-Max,661,419,520,578,462,321,156
+Ford,Connect,0,605,575,487,474,396,567
+Ford,Courier,0,111,208,145,195,206,265
+Ford,Custom,0,369,358,284,499,707,827
+Ford,EcoSport,0,296,280,400,556,1305,1167
+Ford,Edge,20,17,3,367,742,547,656
+Ford,Explorer,18,48,17,27,9,12,181
+Ford,Fiesta,3372,2826,2844,2175,2399,2894,2629
+Ford,Flex,2,0,0,0,0,0,0
+Ford,Focus,3334,2482,2340,2208,2031,2434,2705
+Ford,GT,0,0,0,0,0,6,0
+Ford,Galaxy,131,111,128,259,200,200,125
+Ford,Grand C-Max,778,474,439,414,387,266,126
+Ford,Ka,640,382,192,101,393,967,889
+Ford,Kuga,3041,3082,3453,2886,3590,3378,2662
+Ford,Mondeo,391,371,1002,937,576,591,619
+Ford,Mustang,214,184,423,625,410,337,211
+Ford,S-Max,615,472,368,751,529,484,333
+Ford,Tourneo,343,0,0,0,0,0,0
+Ford,Transit,227,11,79,42,47,44,26
+Honda,Accord,230,257,127,1,1,1,0
+Honda,CR-V,1995,1318,1069,1096,712,599,1207
+Honda,CR-Z,40,55,3,1,0,0,0
+Honda,Civic,625,863,784,1128,1330,1087,876
+Honda,HR-V,0,0,205,973,705,483,711
+Honda,Insight,145,78,0,0,0,0,0
+Honda,Jazz,2560,1928,1155,1573,1214,1530,1266
+Honda,NSX,0,0,0,1,9,2,2
+Hummer,H3,1,0,0,0,0,0,0
+Hyundai,Genesis,19,38,5,3,0,0,0
+Hyundai,H-1 People,32,40,33,9,1,0,0
+Hyundai,Ioniq,0,0,0,167,439,472,309
+Hyundai,Kona,0,0,0,0,204,1900,2728
+Hyundai,Nexo,0,0,0,0,0,0,16
+Hyundai,Santa Fe,485,787,1307,1316,836,573,429
+Hyundai,Starex,0,0,0,0,0,0,2
+Hyundai,Tucson,0,0,1382,3168,3084,2276,2666
+Hyundai,Veloster,244,84,60,11,3,0,0
+Hyundai,i10,268,879,653,399,673,521,274
+Hyundai,i20,2651,3066,2364,1631,1382,916,1009
+Hyundai,i30,2667,2361,1834,1611,1417,1263,1209
+Hyundai,i40,867,436,307,286,220,67,24
+Hyundai,iX 55,8,0,0,0,0,0,0
+Hyundai,iX20,860,796,675,448,337,191,18
+Hyundai,iX35,2110,2509,1312,26,2,20,1
+Infiniti,EX,6,4,0,0,0,0,0
+Infiniti,FX,59,15,1,0,0,0,0
+Infiniti,G37,5,1,0,0,0,0,0
+Infiniti,M,8,1,2,0,0,0,0
+Infiniti,Q30,0,0,0,350,112,68,72
+Infiniti,Q50,4,61,108,64,35,8,13
+Infiniti,Q60,0,4,5,4,30,10,10
+Infiniti,Q70,0,2,13,16,19,3,11
+Infiniti,QX30,0,0,0,72,54,34,15
+Infiniti,QX50,0,4,37,12,1,0,0
+Infiniti,QX60,0,0,1,0,0,0,0
+Infiniti,QX70,1,26,59,101,35,4,5
+Iveco,Daily,4,0,0,0,0,0,0
+Jaguar,E-Pace,0,0,0,0,0,961,999
+Jaguar,F-Pace,0,0,0,791,764,570,456
+Jaguar,F-Type,190,266,275,175,171,126,125
+Jaguar,I-Pace,0,0,0,0,0,63,444
+Jaguar,XE,0,0,333,436,178,127,106
+Jaguar,XF,581,324,349,372,165,103,83
+Jaguar,XJ,85,20,20,17,15,6,7
+Jaguar,XK,32,11,2,0,0,0,0
+Jeep,Cherokee,14,668,916,798,406,428,508
+Jeep,Compass,433,422,3,2,631,1834,1607
+Jeep,Glatiator,0,0,0,0,0,0,2
+Jeep,Grand Cherokee,1320,1595,1162,1180,1323,1249,1224
+Jeep,Patriot,8,58,0,0,0,0,0
+Jeep,Renegade,0,0,0,0,891,814,1216
+Jeep,Rengade,0,235,1383,1009,0,0,0
+Jeep,Wrangler,322,296,241,279,205,518,585
+KTM,X-Bow,3,5,1,0,0,0,0
+Kia,Carens,192,582,708,604,435,372,83
+Kia,Carnival,73,2,0,0,0,0,0
+Kia,Cee'd,1142,1182,924,962,641,914,814
+Kia,Niro,0,0,0,135,240,410,498
+Kia,Optima,121,60,40,55,178,135,33
+Kia,Picanto,425,793,1053,1132,585,828,879
+Kia,Pro Cee'd,57,67,19,23,6,1,266
+Kia,Rio,603,581,532,691,359,385,175
+Kia,Sorento,252,339,655,456,246,289,202
+Kia,Soul,180,178,345,278,135,78,75
+Kia,Sportage,619,972,526,923,690,817,876
+Kia,Stinger,0,0,0,0,60,243,143
+Kia,Stonic,0,0,0,0,114,316,436
+Kia,Venga,317,130,237,222,146,91,31
+Lada,4x4 Urban,0,0,0,8,24,8,0
+Lada,Kalina Cross,0,0,0,0,0,2,0
+Lada,Niva,12,31,5,0,0,0,0
+Lada,Vesta,0,0,0,0,0,0,2
+Lamborghini,Aventador,24,31,24,37,34,24,35
+Lamborghini,Gallardo,21,18,4,1,0,0,0
+Lamborghini,Huràcan,0,25,53,60,56,71,65
+Lamborghini,Urus,0,0,0,0,0,48,124
+Lancia,Delta,132,54,1,0,0,0,0
+Lancia,Flavia,60,65,0,0,0,0,0
+Lancia,Musa,12,0,0,0,0,0,0
+Lancia,Thema,163,38,1,0,0,0,0
+Lancia,Voyager,245,408,9,0,0,0,0
+Lancia,Ypsilon,273,230,116,83,4,1,2
+Land Rover,Defender,1,1,0,0,0,0,0
+Land Rover,Discovery,215,259,270,248,372,233,203
+Land Rover,Discovery Sport,0,0,652,1169,652,709,635
+Land Rover,Freelander,143,60,10,0,0,0,0
+Land Rover,Range Rover,513,360,371,341,292,283,316
+Land Rover,Range Rover Evoque,1861,1650,1432,1378,1111,925,1194
+Land Rover,Range Rover Sport,721,1155,1065,803,775,690,884
+Land Rover,Range Rover Velar,0,0,0,0,344,966,753
+Lexus,CT,160,203,97,84,76,167,108
+Lexus,GS,71,55,18,29,14,6,0
+Lexus,IS,160,148,75,31,34,24,21
+Lexus,LC,0,0,0,0,11,22,16
+Lexus,LS,11,7,5,11,4,9,6
+Lexus,NX,0,241,614,326,223,287,197
+Lexus,RC,0,0,32,20,21,11,11
+Lexus,RC-F,0,1,0,0,0,0,0
+Lexus,RX,254,198,102,362,306,208,172
+Lexus,UX,0,0,0,0,0,0,405
+Lotus,Elise,18,22,28,23,24,20,18
+Lotus,Evora,24,14,13,22,12,15,8
+Lotus,Exige,37,41,35,50,54,32,38
+Maserati,GT MC Stradale,12,10,10,8,1,0,0
+Maserati,Ghibli,45,537,525,385,270,185,109
+Maserati,GranCabrio,39,46,41,31,31,27,19
+Maserati,Granturismo,35,23,22,21,19,24,15
+Maserati,Levante,0,0,0,282,534,330,215
+Maserati,Quattroporte,59,116,107,56,62,34,17
+Maserati,Stradale,0,0,0,0,0,0,1
+Mazda,CX-3,0,0,1258,2127,1412,1129,1075
+Mazda,CX-30,0,0,0,0,0,0,470
+Mazda,CX-5,2480,2663,2630,2426,2443,2037,1722
+Mazda,CX-7,26,0,0,0,0,0,0
+Mazda,CX-9,0,7,90,102,5,14,7
+Mazda,MX-5,107,127,172,404,351,253,292
+Mazda,,1697,1369,2627,2457,1914,1314,1703
+Mazda,,1634,2167,1850,1931,1326,1029,1005
+Mazda,,915,754,832,691,427,450,262
+Mazda,,731,488,523,32,0,0,0
+McLaren,540C,0,0,0,3,6,5,1
+McLaren,570S,0,0,1,0,0,0,0
+McLaren,650S,0,22,21,15,1,0,0
+McLaren,675 LT,0,0,5,36,8,4,4
+McLaren,720S,0,0,0,0,23,57,33
+McLaren,GT-R,0,0,0,0,0,0,2
+McLaren,MP4,0,0,0,0,0,0,1
+McLaren,MP4-12C,30,15,0,1,0,0,0
 McLaren,MSO HS,0,0,0,2,0,0,0
-McLaren,P1,0,0,0,1,5,12,1
-McLaren,Senna,12,5,0,0,0,0,0
-McLaren,,14,29,29,27,0,0,0
-McLaren,,19,0,0,0,0,0,0
-Mercedes-Benz,A-Klasse,4672,3268,3537,3186,3372,3302,3519
-Mercedes-Benz,AMG GT,103,234,0,0,0,0,0
-Mercedes-Benz,AMG GT S,0,0,191,197,326,3,0
-Mercedes-Benz,B-Klasse,1708,1293,1478,1694,2237,1918,2185
-Mercedes-Benz,C-Klasse,4277,4330,4496,4542,4299,2498,3125
-Mercedes-Benz,CL-Klasse,0,0,0,0,0,1,8
-Mercedes-Benz,CLA-Klasse,1272,1344,1492,1731,1811,700,517
-Mercedes-Benz,CLS-Klasse,282,279,171,250,500,465,637
-Mercedes-Benz,Citan,77,104,135,120,130,158,90
-Mercedes-Benz,E-Klasse,2281,2652,2797,1213,1548,1888,1635
-Mercedes-Benz,EQC,152,0,0,0,0,0,0
-Mercedes-Benz,G-Klasse,530,290,194,161,143,155,126
-Mercedes-Benz,GL-Klasse,0,0,0,30,178,187,209
-Mercedes-Benz,GLA-Klasse,2056,2280,2591,2834,3087,2627,1
-Mercedes-Benz,GLC-Klasse,4743,4988,4219,3062,818,0,0
-Mercedes-Benz,GLE-Klasse,1418,1474,1601,1814,585,0,0
-Mercedes-Benz,GLK-Klasse,0,0,0,0,663,1221,1570
-Mercedes-Benz,GLS-Klasse,84,120,159,128,0,0,0
-Mercedes-Benz,GT 4m,246,0,0,0,0,0,0
-Mercedes-Benz,ML-Klasse,0,0,0,1,489,993,1264
-Mercedes-Benz,R-Klasse,0,0,0,0,0,0,23
-Mercedes-Benz,S-Klasse,338,584,501,557,776,678,189
-Mercedes-Benz,SL-Klasse,28,44,55,68,68,82,172
-Mercedes-Benz,SLC-Klasse,158,169,266,237,0,0,0
-Mercedes-Benz,SLK-Klasse,0,0,0,25,233,294,313
-Mercedes-Benz,SLS,0,0,0,1,0,0,51
-Mercedes-Benz,SLS AMG,0,0,0,0,10,55,0
-Mercedes-Benz,Sprinter,132,145,150,149,147,144,151
-Mercedes-Benz,V-Klasse,1337,1336,1395,1327,1022,304,0
-Mercedes-Benz,Viano,0,0,0,1,33,423,624
-Mercedes-Benz,Vito,836,722,651,511,400,280,316
-Mini,Cabrio,954,969,0,0,0,0,0
-Mini,Clubman,457,602,0,0,0,0,0
-Mini,Cooper,0,0,3485,3549,2841,2480,1876
-Mini,Cooper All4,0,0,88,1154,1495,1586,1789
-Mini,Countryman,1629,2199,1718,0,0,0,0
-Mini,Hatch,1894,1943,0,0,0,0,0
-Mini,One,0,0,398,564,525,397,1059
-Mitsubishi,ASX,592,505,767,996,1268,1038,1098
-Mitsubishi,Attrage,0,14,40,46,109,0,0
-Mitsubishi,Colt,0,1,0,0,17,162,1558
-Mitsubishi,Eclipse Cross,964,1162,102,0,0,0,0
-Mitsubishi,Grandis,0,0,0,0,1,1,2
-Mitsubishi,Lancer,5,56,119,156,295,387,337
-Mitsubishi,Outlander,962,902,632,809,825,802,787
-Mitsubishi,Pajero,128,469,326,388,408,288,258
-Mitsubishi,Space Star,1570,1336,1052,1412,1070,803,332
-Mitsubishi,i-MiEV,86,104,39,65,48,84,110
-Morgan,4/4,2,3,2,3,1,4,10
-Morgan,Aero Super Sports,0,0,0,0,0,0,2
-Morgan,Plus 4,12,10,7,12,11,11,10
-Morgan,Plus 6,4,0,0,0,0,0,0
-Morgan,Roadster,7,4,3,1,5,4,0
-Morgan,Roadster 3000,0,0,0,0,0,0,5
-Nissan,370Z,26,22,44,56,68,54,70
-Nissan,Cube,0,0,0,0,0,0,2
-Nissan,GT-R,11,23,33,30,38,46,52
-Nissan,Juke,293,515,685,948,1232,1305,1507
-Nissan,Leaf,536,428,131,158,145,106,178
-Nissan,Micra,1124,796,946,580,882,885,950
-Nissan,Murano,0,0,0,10,152,73,103
-Nissan,NV200,213,260,278,260,271,224,300
-Nissan,NV300,39,71,111,3,0,0,0
-Nissan,NV400,12,5,16,9,8,9,5
-Nissan,Note,0,5,163,414,657,960,505
-Nissan,Pathfinder,0,0,0,4,27,112,113
-Nissan,Patrol,0,19,13,0,0,0,0
-Nissan,Pixo,0,0,0,1,0,6,97
-Nissan,Primastar,0,0,0,0,4,44,50
-Nissan,Pulsar,76,243,306,533,732,229,0
-Nissan,Qashqai,1916,1530,2157,2360,3038,2724,3432
-Nissan,X-Trail,609,801,1496,671,712,388,141
-Opel,Adam,323,364,533,733,1093,1086,1192
-Opel,Agila,0,0,0,12,116,238,306
-Opel,Ampera,101,213,398,33,56,72,71
-Opel,Antara,0,0,17,37,124,264,366
-Opel,Astra,1394,1808,2635,3260,2129,2291,2821
-Opel,Cascada,35,58,98,117,175,244,259
-Opel,Combo,342,96,42,77,99,122,244
-Opel,Corsa,1885,1656,2181,2390,2936,2217,2316
-Opel,Crossland,1914,1612,840,0,0,0,0
-Opel,Grandland,1040,1121,224,0,0,0,0
-Opel,Insignia,449,949,965,695,1010,1232,1053
-Opel,Karl,101,197,503,713,437,0,0
-Opel,Meriva,1,0,241,545,870,1382,1261
-Opel,Mokka,1433,2697,3822,3023,2921,2710,2617
-Opel,Movano,11,17,17,15,21,23,29
-Opel,Vivaro,182,476,529,398,414,183,217
-Opel,Zafira,640,666,997,1136,1368,1320,1439
-Peugeot,206+,0,0,2,1,0,1,61
-Peugeot,Bipper,0,0,0,0,11,22,30
-Peugeot,Boxer,11,7,11,26,17,14,21
-Peugeot,Expert,354,413,276,14,171,118,150
-Peugeot,Partner,0,142,263,367,476,258,428
-Peugeot,RCZ,0,0,4,46,62,105,137
-Peugeot,Rifter,544,76,0,0,0,0,0
-Peugeot,Traveller,3,10,51,46,0,0,0
-Peugeot,iOn,18,72,22,34,20,7,10
-Peugeot,,448,614,692,817,1217,509,0
-Peugeot,,1802,2105,2085,2501,3095,3319,4148
-Peugeot,,1462,1590,1855,2360,3115,2615,1841
-Peugeot,,535,98,268,418,499,509,639
-Peugeot,,1017,1346,1749,2130,2309,2014,1047
-Peugeot,,1585,2239,1898,964,781,792,838
-Peugeot,,838,996,876,410,473,454,619
-Peugeot,,0,1,152,247,188,208,317
-Peugeot,,0,0,1,1,4,243,700
-Peugeot,,0,0,0,3,133,130,570
-Peugeot,,0,0,0,0,14,101,182
-Peugeot,,0,0,0,0,0,0,45
-Peugeot,,0,0,0,0,0,0,1
-Porsche,Boxster,135,109,175,266,170,161,238
-Porsche,Cayenne,932,717,539,734,894,574,999
-Porsche,Cayman,88,90,90,173,146,83,106
-Porsche,Macan,1524,1118,1678,1795,1875,1216,0
-Porsche,Panamera,327,449,535,173,168,199,232
-Porsche,,854,1081,948,1096,1027,916,942
-Porsche,,0,0,0,3,25,15,0
-Renault,Captur,1765,2275,2133,2012,2193,1800,1147
-Renault,Clio,2054,2424,2719,3021,4031,3224,3611
-Renault,Espace,411,432,555,1122,980,386,529
-Renault,Fluence,0,0,0,0,0,0,7
-Renault,Kadjar,781,590,955,1487,871,0,0
-Renault,Kangoo,92,387,408,391,465,539,660
-Renault,Koleos,408,753,647,5,193,507,919
-Renault,Laguna,0,0,1,13,105,208,295
-Renault,Latitude,0,0,0,0,0,0,12
-Renault,Master,18,27,28,32,34,40,41
-Renault,Megane,2119,2106,2516,3052,2076,1920,2650
-Renault,Modus,0,0,0,0,0,3,68
-Renault,Scenic,1122,1594,1882,1088,1877,1693,1992
-Renault,Talisman,324,332,535,660,0,0,0
-Renault,Trafic,375,504,313,479,392,253,429
-Renault,Twingo,445,397,440,531,1124,790,796
-Renault,Wind,0,0,0,0,0,0,10
-Renault,Zoe,1804,908,741,406,478,381,342
-Rolls Royce,Cullinan,27,6,0,0,0,0,0
-Rolls Royce,Dawn,10,17,17,19,0,0,0
-Rolls Royce,Ghost,7,4,4,5,6,7,13
-Rolls Royce,Phantom,6,5,4,6,5,8,15
-Rolls Royce,Wraith,12,12,14,16,20,34,7
-Saab,9-3,0,0,0,0,0,0,3
-Saab,9-5,0,0,0,0,0,0,4
-Seat,Alhambra,2899,2524,3662,3484,3543,2625,2522
-Seat,Altea,0,0,1,3,94,271,519
-Seat,Arona,981,1001,113,0,0,0,0
-Seat,Ateca,3592,2402,2362,901,0,0,0
-Seat,Exeo,0,0,0,0,1,72,290
-Seat,Ibiza,2249,1959,2170,1933,1731,2127,2637
-Seat,Leon,3302,3501,3665,3670,4869,4002,2728
-Seat,Mii,52,81,71,110,156,181,304
-Seat,Tarraco,1302,0,0,0,0,0,0
-Seat,Toledo,0,0,8,35,56,99,158
-Secma,Fun,0,4,0,0,0,0,0
-Skoda,Citigo,79,116,160,203,295,246,554
-Skoda,Fabia,3019,3472,3694,3928,3659,2902,3220
-Skoda,Kamiq,519,0,0,0,0,0,0
-Skoda,Karoq,4344,2295,325,0,0,0,0
-Skoda,Kodiaq,4594,2174,2567,0,0,0,0
-Skoda,Octavia,9280,8455,10017,11721,12228,10847,9980
-Skoda,Rapid,308,822,960,1145,1206,1529,440
-Skoda,Roomster,0,0,0,1,170,342,632
-Skoda,Scala,610,0,0,0,0,0,0
-Skoda,Superb,1350,1792,1832,1996,1190,1270,1046
-Skoda,Yeti,0,34,1025,2065,2223,2380,2067
-Smart,Forfour,368,440,500,623,982,144,0
-Smart,Fortwo,1370,1585,1827,2147,2427,1537,1708
-Ssangyong,Korando,273,137,200,185,334,339,314
-Ssangyong,Rexton,140,198,184,142,159,136,118
-Ssangyong,Rodius,29,45,53,33,72,94,30
-Ssangyong,Tivoli,292,301,268,499,241,0,0
-Ssangyong,XLV,57,92,101,109,0,0,0
-Stimbo,ET 1000,0,0,1,1,3,9,0
-Stimbo,HV-P,0,1,2,1,0,0,0
-Subaru,BRZ,32,15,18,13,15,69,171
-Subaru,Forester,1230,1022,1267,1102,1442,1679,1851
-Subaru,Impreza,215,321,395,273,474,469,466
-Subaru,Justy,0,0,0,0,0,0,8
-Subaru,Legacy,0,0,0,5,374,568,722
-Subaru,Levorg,561,635,936,1706,640,0,0
-Subaru,Outback,433,540,366,553,864,579,657
-Subaru,Trezia,0,0,0,1,36,288,437
-Subaru,WRX,27,218,157,211,304,451,249
-Subaru,XV,1525,1930,1847,1555,1862,2174,3002
-Suzuki,Alto,0,0,0,0,34,184,286
-Suzuki,Baleno,151,159,399,422,0,0,0
-Suzuki,Celerio,139,200,206,363,514,0,0
-Suzuki,Grand Vitara,0,0,0,4,70,311,423
-Suzuki,Ignis,1527,1787,1744,119,0,0,0
-Suzuki,Jimny,420,286,351,420,353,361,416
-Suzuki,Kizashi,0,0,0,0,7,72,123
-Suzuki,SX4,0,0,0,30,459,2019,4003
-Suzuki,SX4 S-Cross,1502,1098,1370,1481,1907,2350,0
-Suzuki,Splash,0,0,0,3,18,148,187
-Suzuki,Swift,2856,2659,2247,2328,3108,3069,2926
-Suzuki,Vitara,1831,1484,1910,2476,1881,0,0
-Tazzari,Zero,0,0,0,4,2,3,0
-Tesla,Model 3,5028,1,0,0,0,0,0
-Tesla,Model S,505,837,1131,1299,1556,496,213
-Tesla,Model X,528,625,893,402,0,0,0
-Tesla,Roadster,0,0,0,0,0,0,3
-Think,City,0,0,0,0,0,5,3
-Toyota,Auris,353,1361,1694,2320,2241,2865,2658
-Toyota,Avensis,0,7,63,171,171,187,437
-Toyota,Aygo,856,715,662,823,1123,954,1127
-Toyota,C-HR,1394,1738,1809,284,0,0,0
-Toyota,Camry,110,0,0,0,0,0,0
-Toyota,Corolla,1877,0,0,0,0,0,0
-Toyota,FJ Cruiser,0,0,0,0,0,0,2
-Toyota,GT86,25,41,57,70,61,201,345
-Toyota,Hiace,0,0,0,0,0,0,1
-Toyota,IQ,0,0,0,0,11,66,168
-Toyota,Land Cruiser,473,619,509,576,528,453,330
-Toyota,Mirai,9,9,0,0,0,0,0
-Toyota,Prius,561,505,566,773,439,449,843
-Toyota,Proace,319,216,307,28,0,0,0
-Toyota,RAV4,2309,1409,1547,2013,1361,1472,1493
-Toyota,Sienna,3,5,9,97,184,224,48
-Toyota,Supra,51,0,0,0,0,0,0
-Toyota,UrbanCruiser,0,0,0,0,15,66,155
-Toyota,Verso,4,181,395,582,662,947,945
-Toyota,Verso-S,0,0,2,13,297,444,478
-Toyota,Yaris,2709,2692,2680,2628,2777,2934,3614
-VW,Arteon,64,165,175,0,0,0,0
-VW,Beetle,8,261,300,364,405,464,706
-VW,CC,0,0,1,21,52,112,176
-VW,Caddy,1587,1413,1586,1567,1265,1310,1301
-VW,Crafter,23,25,2,14,20,25,35
-VW,EOS,0,0,0,0,32,54,92
-VW,Golf,6596,7201,9500,11988,15288,14366,13408
-VW,Jetta,0,0,0,7,59,10,40
-VW,Passat,2079,2164,2747,3778,4579,2922,3650
-VW,Phaeton,0,0,0,0,5,6,15
-VW,Polo,3933,4109,5295,6516,7210,5884,5664
-VW,Scirocco,3,9,28,71,178,141,183
-VW,Sharan,1174,1048,1290,2061,1923,2039,1946
-VW,T-Cross,1447,0,0,0,0,0,0
-VW,T-Roc,3866,3790,215,0,0,0,0
-VW,T5,0,0,3,19,1802,2402,2083
-VW,T6,3588,3045,3920,3567,1052,0,0
-VW,Tiguan,7018,6700,7110,6434,3950,4828,5303
-VW,Touareg,734,462,218,397,699,632,564
-VW,Touran,1900,2071,2965,4286,2619,3008,3552
-VW,Up,421,481,618,1047,1063,1935,2205
-VW,XL1,0,0,0,0,7,1,0
-Volvo,C30,0,0,0,0,0,5,27
-Volvo,C70,0,0,0,0,5,29,150
-Volvo,S40,0,0,0,0,0,0,4
-Volvo,S60,169,2,22,59,111,91,145
-Volvo,S80,0,0,1,5,31,30,49
-Volvo,S90,61,141,167,96,0,0,0
-Volvo,V40,663,872,1426,1273,1728,1960,2349
-Volvo,V50,0,0,1,0,1,3,78
-Volvo,V60,1365,1049,999,1187,1470,1342,1428
-Volvo,V70,0,0,15,179,202,369,358
-Volvo,V90,315,425,778,127,0,0,0
-Volvo,XC40,2698,1565,0,0,0,0,0
-Volvo,XC60,2540,3028,2971,2469,2453,2262,2353
-Volvo,XC70,0,0,11,221,335,381,372
-Volvo,XC90,1047,1039,1106,1514,915,394,397
+McLaren,P1,1,12,5,1,0,0,0
+McLaren,Senna,0,0,0,0,0,5,12
+McLaren,,0,0,0,27,29,29,14
+McLaren,,0,0,0,0,0,0,19
+Mercedes-Benz,A-Klasse,3519,3302,3372,3186,3537,3268,4672
+Mercedes-Benz,AMG GT,0,0,0,0,0,234,103
+Mercedes-Benz,AMG GT S,0,3,326,197,191,0,0
+Mercedes-Benz,B-Klasse,2185,1918,2237,1694,1478,1293,1708
+Mercedes-Benz,C-Klasse,3125,2498,4299,4542,4496,4330,4277
+Mercedes-Benz,CL-Klasse,8,1,0,0,0,0,0
+Mercedes-Benz,CLA-Klasse,517,700,1811,1731,1492,1344,1272
+Mercedes-Benz,CLS-Klasse,637,465,500,250,171,279,282
+Mercedes-Benz,Citan,90,158,130,120,135,104,77
+Mercedes-Benz,E-Klasse,1635,1888,1548,1213,2797,2652,2281
+Mercedes-Benz,EQC,0,0,0,0,0,0,152
+Mercedes-Benz,G-Klasse,126,155,143,161,194,290,530
+Mercedes-Benz,GL-Klasse,209,187,178,30,0,0,0
+Mercedes-Benz,GLA-Klasse,1,2627,3087,2834,2591,2280,2056
+Mercedes-Benz,GLC-Klasse,0,0,818,3062,4219,4988,4743
+Mercedes-Benz,GLE-Klasse,0,0,585,1814,1601,1474,1418
+Mercedes-Benz,GLK-Klasse,1570,1221,663,0,0,0,0
+Mercedes-Benz,GLS-Klasse,0,0,0,128,159,120,84
+Mercedes-Benz,GT 4m,0,0,0,0,0,0,246
+Mercedes-Benz,ML-Klasse,1264,993,489,1,0,0,0
+Mercedes-Benz,R-Klasse,23,0,0,0,0,0,0
+Mercedes-Benz,S-Klasse,189,678,776,557,501,584,338
+Mercedes-Benz,SL-Klasse,172,82,68,68,55,44,28
+Mercedes-Benz,SLC-Klasse,0,0,0,237,266,169,158
+Mercedes-Benz,SLK-Klasse,313,294,233,25,0,0,0
+Mercedes-Benz,SLS,51,0,0,1,0,0,0
+Mercedes-Benz,SLS AMG,0,55,10,0,0,0,0
+Mercedes-Benz,Sprinter,151,144,147,149,150,145,132
+Mercedes-Benz,V-Klasse,0,304,1022,1327,1395,1336,1337
+Mercedes-Benz,Viano,624,423,33,1,0,0,0
+Mercedes-Benz,Vito,316,280,400,511,651,722,836
+Mini,Cabrio,0,0,0,0,0,969,954
+Mini,Clubman,0,0,0,0,0,602,457
+Mini,Cooper,1876,2480,2841,3549,3485,0,0
+Mini,Cooper All4,1789,1586,1495,1154,88,0,0
+Mini,Countryman,0,0,0,0,1718,2199,1629
+Mini,Hatch,0,0,0,0,0,1943,1894
+Mini,One,1059,397,525,564,398,0,0
+Mitsubishi,ASX,1098,1038,1268,996,767,505,592
+Mitsubishi,Attrage,0,0,109,46,40,14,0
+Mitsubishi,Colt,1558,162,17,0,0,1,0
+Mitsubishi,Eclipse Cross,0,0,0,0,102,1162,964
+Mitsubishi,Grandis,2,1,1,0,0,0,0
+Mitsubishi,Lancer,337,387,295,156,119,56,5
+Mitsubishi,Outlander,787,802,825,809,632,902,962
+Mitsubishi,Pajero,258,288,408,388,326,469,128
+Mitsubishi,Space Star,332,803,1070,1412,1052,1336,1570
+Mitsubishi,i-MiEV,110,84,48,65,39,104,86
+Morgan,4/4,10,4,1,3,2,3,2
+Morgan,Aero Super Sports,2,0,0,0,0,0,0
+Morgan,Plus 4,10,11,11,12,7,10,12
+Morgan,Plus 6,0,0,0,0,0,0,4
+Morgan,Roadster,0,4,5,1,3,4,7
+Morgan,Roadster 3000,5,0,0,0,0,0,0
+Nissan,370Z,70,54,68,56,44,22,26
+Nissan,Cube,2,0,0,0,0,0,0
+Nissan,GT-R,52,46,38,30,33,23,11
+Nissan,Juke,1507,1305,1232,948,685,515,293
+Nissan,Leaf,178,106,145,158,131,428,536
+Nissan,Micra,950,885,882,580,946,796,1124
+Nissan,Murano,103,73,152,10,0,0,0
+Nissan,NV200,300,224,271,260,278,260,213
+Nissan,NV300,0,0,0,3,111,71,39
+Nissan,NV400,5,9,8,9,16,5,12
+Nissan,Note,505,960,657,414,163,5,0
+Nissan,Pathfinder,113,112,27,4,0,0,0
+Nissan,Patrol,0,0,0,0,13,19,0
+Nissan,Pixo,97,6,0,1,0,0,0
+Nissan,Primastar,50,44,4,0,0,0,0
+Nissan,Pulsar,0,229,732,533,306,243,76
+Nissan,Qashqai,3432,2724,3038,2360,2157,1530,1916
+Nissan,X-Trail,141,388,712,671,1496,801,609
+Opel,Adam,1192,1086,1093,733,533,364,323
+Opel,Agila,306,238,116,12,0,0,0
+Opel,Ampera,71,72,56,33,398,213,101
+Opel,Antara,366,264,124,37,17,0,0
+Opel,Astra,2821,2291,2129,3260,2635,1808,1394
+Opel,Cascada,259,244,175,117,98,58,35
+Opel,Combo,244,122,99,77,42,96,342
+Opel,Corsa,2316,2217,2936,2390,2181,1656,1885
+Opel,Crossland,0,0,0,0,840,1612,1914
+Opel,Grandland,0,0,0,0,224,1121,1040
+Opel,Insignia,1053,1232,1010,695,965,949,449
+Opel,Karl,0,0,437,713,503,197,101
+Opel,Meriva,1261,1382,870,545,241,0,1
+Opel,Mokka,2617,2710,2921,3023,3822,2697,1433
+Opel,Movano,29,23,21,15,17,17,11
+Opel,Vivaro,217,183,414,398,529,476,182
+Opel,Zafira,1439,1320,1368,1136,997,666,640
+Peugeot,206+,61,1,0,1,2,0,0
+Peugeot,Bipper,30,22,11,0,0,0,0
+Peugeot,Boxer,21,14,17,26,11,7,11
+Peugeot,Expert,150,118,171,14,276,413,354
+Peugeot,Partner,428,258,476,367,263,142,0
+Peugeot,RCZ,137,105,62,46,4,0,0
+Peugeot,Rifter,0,0,0,0,0,76,544
+Peugeot,Traveller,0,0,0,46,51,10,3
+Peugeot,iOn,10,7,20,34,22,72,18
+Peugeot,,0,509,1217,817,692,614,448
+Peugeot,,4148,3319,3095,2501,2085,2105,1802
+Peugeot,,1841,2615,3115,2360,1855,1590,1462
+Peugeot,,639,509,499,418,268,98,535
+Peugeot,,1047,2014,2309,2130,1749,1346,1017
+Peugeot,,838,792,781,964,1898,2239,1585
+Peugeot,,619,454,473,410,876,996,838
+Peugeot,,317,208,188,247,152,1,0
+Peugeot,,700,243,4,1,1,0,0
+Peugeot,,570,130,133,3,0,0,0
+Peugeot,,182,101,14,0,0,0,0
+Peugeot,,45,0,0,0,0,0,0
+Peugeot,,1,0,0,0,0,0,0
+Porsche,Boxster,238,161,170,266,175,109,135
+Porsche,Cayenne,999,574,894,734,539,717,932
+Porsche,Cayman,106,83,146,173,90,90,88
+Porsche,Macan,0,1216,1875,1795,1678,1118,1524
+Porsche,Panamera,232,199,168,173,535,449,327
+Porsche,,942,916,1027,1096,948,1081,854
+Porsche,,0,15,25,3,0,0,0
+Renault,Captur,1147,1800,2193,2012,2133,2275,1765
+Renault,Clio,3611,3224,4031,3021,2719,2424,2054
+Renault,Espace,529,386,980,1122,555,432,411
+Renault,Fluence,7,0,0,0,0,0,0
+Renault,Kadjar,0,0,871,1487,955,590,781
+Renault,Kangoo,660,539,465,391,408,387,92
+Renault,Koleos,919,507,193,5,647,753,408
+Renault,Laguna,295,208,105,13,1,0,0
+Renault,Latitude,12,0,0,0,0,0,0
+Renault,Master,41,40,34,32,28,27,18
+Renault,Megane,2650,1920,2076,3052,2516,2106,2119
+Renault,Modus,68,3,0,0,0,0,0
+Renault,Scenic,1992,1693,1877,1088,1882,1594,1122
+Renault,Talisman,0,0,0,660,535,332,324
+Renault,Trafic,429,253,392,479,313,504,375
+Renault,Twingo,796,790,1124,531,440,397,445
+Renault,Wind,10,0,0,0,0,0,0
+Renault,Zoe,342,381,478,406,741,908,1804
+Rolls Royce,Cullinan,0,0,0,0,0,6,27
+Rolls Royce,Dawn,0,0,0,19,17,17,10
+Rolls Royce,Ghost,13,7,6,5,4,4,7
+Rolls Royce,Phantom,15,8,5,6,4,5,6
+Rolls Royce,Wraith,7,34,20,16,14,12,12
+Saab,9-3,3,0,0,0,0,0,0
+Saab,9-5,4,0,0,0,0,0,0
+Seat,Alhambra,2522,2625,3543,3484,3662,2524,2899
+Seat,Altea,519,271,94,3,1,0,0
+Seat,Arona,0,0,0,0,113,1001,981
+Seat,Ateca,0,0,0,901,2362,2402,3592
+Seat,Exeo,290,72,1,0,0,0,0
+Seat,Ibiza,2637,2127,1731,1933,2170,1959,2249
+Seat,Leon,2728,4002,4869,3670,3665,3501,3302
+Seat,Mii,304,181,156,110,71,81,52
+Seat,Tarraco,0,0,0,0,0,0,1302
+Seat,Toledo,158,99,56,35,8,0,0
+Secma,Fun,0,0,0,0,0,4,0
+Skoda,Citigo,554,246,295,203,160,116,79
+Skoda,Fabia,3220,2902,3659,3928,3694,3472,3019
+Skoda,Kamiq,0,0,0,0,0,0,519
+Skoda,Karoq,0,0,0,0,325,2295,4344
+Skoda,Kodiaq,0,0,0,0,2567,2174,4594
+Skoda,Octavia,9980,10847,12228,11721,10017,8455,9280
+Skoda,Rapid,440,1529,1206,1145,960,822,308
+Skoda,Roomster,632,342,170,1,0,0,0
+Skoda,Scala,0,0,0,0,0,0,610
+Skoda,Superb,1046,1270,1190,1996,1832,1792,1350
+Skoda,Yeti,2067,2380,2223,2065,1025,34,0
+Smart,Forfour,0,144,982,623,500,440,368
+Smart,Fortwo,1708,1537,2427,2147,1827,1585,1370
+Ssangyong,Korando,314,339,334,185,200,137,273
+Ssangyong,Rexton,118,136,159,142,184,198,140
+Ssangyong,Rodius,30,94,72,33,53,45,29
+Ssangyong,Tivoli,0,0,241,499,268,301,292
+Ssangyong,XLV,0,0,0,109,101,92,57
+Stimbo,ET 1000,0,9,3,1,1,0,0
+Stimbo,HV-P,0,0,0,1,2,1,0
+Subaru,BRZ,171,69,15,13,18,15,32
+Subaru,Forester,1851,1679,1442,1102,1267,1022,1230
+Subaru,Impreza,466,469,474,273,395,321,215
+Subaru,Justy,8,0,0,0,0,0,0
+Subaru,Legacy,722,568,374,5,0,0,0
+Subaru,Levorg,0,0,640,1706,936,635,561
+Subaru,Outback,657,579,864,553,366,540,433
+Subaru,Trezia,437,288,36,1,0,0,0
+Subaru,WRX,249,451,304,211,157,218,27
+Subaru,XV,3002,2174,1862,1555,1847,1930,1525
+Suzuki,Alto,286,184,34,0,0,0,0
+Suzuki,Baleno,0,0,0,422,399,159,151
+Suzuki,Celerio,0,0,514,363,206,200,139
+Suzuki,Grand Vitara,423,311,70,4,0,0,0
+Suzuki,Ignis,0,0,0,119,1744,1787,1527
+Suzuki,Jimny,416,361,353,420,351,286,420
+Suzuki,Kizashi,123,72,7,0,0,0,0
+Suzuki,SX4,4003,2019,459,30,0,0,0
+Suzuki,SX4 S-Cross,0,2350,1907,1481,1370,1098,1502
+Suzuki,Splash,187,148,18,3,0,0,0
+Suzuki,Swift,2926,3069,3108,2328,2247,2659,2856
+Suzuki,Vitara,0,0,1881,2476,1910,1484,1831
+Tazzari,Zero,0,3,2,4,0,0,0
+Tesla,Model 3,0,0,0,0,0,1,5028
+Tesla,Model S,213,496,1556,1299,1131,837,505
+Tesla,Model X,0,0,0,402,893,625,528
+Tesla,Roadster,3,0,0,0,0,0,0
+Think,City,3,5,0,0,0,0,0
+Toyota,Auris,2658,2865,2241,2320,1694,1361,353
+Toyota,Avensis,437,187,171,171,63,7,0
+Toyota,Aygo,1127,954,1123,823,662,715,856
+Toyota,C-HR,0,0,0,284,1809,1738,1394
+Toyota,Camry,0,0,0,0,0,0,110
+Toyota,Corolla,0,0,0,0,0,0,1877
+Toyota,FJ Cruiser,2,0,0,0,0,0,0
+Toyota,GT86,345,201,61,70,57,41,25
+Toyota,Hiace,1,0,0,0,0,0,0
+Toyota,IQ,168,66,11,0,0,0,0
+Toyota,Land Cruiser,330,453,528,576,509,619,473
+Toyota,Mirai,0,0,0,0,0,9,9
+Toyota,Prius,843,449,439,773,566,505,561
+Toyota,Proace,0,0,0,28,307,216,319
+Toyota,RAV4,1493,1472,1361,2013,1547,1409,2309
+Toyota,Sienna,48,224,184,97,9,5,3
+Toyota,Supra,0,0,0,0,0,0,51
+Toyota,UrbanCruiser,155,66,15,0,0,0,0
+Toyota,Verso,945,947,662,582,395,181,4
+Toyota,Verso-S,478,444,297,13,2,0,0
+Toyota,Yaris,3614,2934,2777,2628,2680,2692,2709
+VW,Arteon,0,0,0,0,175,165,64
+VW,Beetle,706,464,405,364,300,261,8
+VW,CC,176,112,52,21,1,0,0
+VW,Caddy,1301,1310,1265,1567,1586,1413,1587
+VW,Crafter,35,25,20,14,2,25,23
+VW,EOS,92,54,32,0,0,0,0
+VW,Golf,13408,14366,15288,11988,9500,7201,6596
+VW,Jetta,40,10,59,7,0,0,0
+VW,Passat,3650,2922,4579,3778,2747,2164,2079
+VW,Phaeton,15,6,5,0,0,0,0
+VW,Polo,5664,5884,7210,6516,5295,4109,3933
+VW,Scirocco,183,141,178,71,28,9,3
+VW,Sharan,1946,2039,1923,2061,1290,1048,1174
+VW,T-Cross,0,0,0,0,0,0,1447
+VW,T-Roc,0,0,0,0,215,3790,3866
+VW,T5,2083,2402,1802,19,3,0,0
+VW,T6,0,0,1052,3567,3920,3045,3588
+VW,Tiguan,5303,4828,3950,6434,7110,6700,7018
+VW,Touareg,564,632,699,397,218,462,734
+VW,Touran,3552,3008,2619,4286,2965,2071,1900
+VW,Up,2205,1935,1063,1047,618,481,421
+VW,XL1,0,1,7,0,0,0,0
+Volvo,C30,27,5,0,0,0,0,0
+Volvo,C70,150,29,5,0,0,0,0
+Volvo,S40,4,0,0,0,0,0,0
+Volvo,S60,145,91,111,59,22,2,169
+Volvo,S80,49,30,31,5,1,0,0
+Volvo,S90,0,0,0,96,167,141,61
+Volvo,V40,2349,1960,1728,1273,1426,872,663
+Volvo,V50,78,3,1,0,1,0,0
+Volvo,V60,1428,1342,1470,1187,999,1049,1365
+Volvo,V70,358,369,202,179,15,0,0
+Volvo,V90,0,0,0,127,778,425,315
+Volvo,XC40,0,0,0,0,0,1565,2698
+Volvo,XC60,2353,2262,2453,2469,2971,3028,2540
+Volvo,XC70,372,381,335,221,11,0,0
+Volvo,XC90,397,394,915,1514,1106,1039,1047
